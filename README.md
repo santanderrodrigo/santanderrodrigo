@@ -1,3 +1,3 @@
 ### Hello 👋 I'm Rodrigo.
 - 🌱 I’m currently learning University Technication In Programing Technologies at UPSO.
-- 🔭 I’m currently working in Laravel/PHP Backend Developer.
+- 🔭 I am currently working as a backend developer with Laravel/PHP
