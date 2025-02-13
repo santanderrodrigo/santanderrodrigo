@@ -1,5 +1,5 @@
-Backend developer at Tanooco. I'm also actively pursuing a University Technician Program in Programming Technologies at UPSO and a degree in Biotechnology and Molecular Biology at UNLP. I Code in C#/.NET, PHP/Laravel and Python for data analysis and experienced in C++ / Arduino for embedded systems development. My background in biotechnology provides a solid foundation in mathematics, complementing my tech skills.
+Backend developer at Tanooco. I have completed the University Technician Program in Programming Technologies at UPSO and am currently pursuing a degree in Biotechnology and Molecular Biology at UNLP. I code in C#/.NET, PHP/Laravel, and Python for data analysis, with experience in C++/Arduino for embedded systems development. My biotechnology background provides a strong foundation in mathematics, which complements my tech skills.
 
-Beyond backend work, I also have experience in frontend tasks including HTML, CSS/Tailwind, JavaScript, TypeScript/Angular
+In addition to backend work, I have experience with frontend development, including HTML, CSS/Tailwind, JavaScript, and TypeScript/Angular.
 
-Outside of coding, I'm an avid astrophotography enthusiast, capturing the beauty of the cosmos.
+Outside of coding, I am an avid astrophotography enthusiast, capturing the beauty of the cosmos.
